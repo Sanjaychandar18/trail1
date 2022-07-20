@@ -1,3 +1,5 @@
 #include<stdio.h>
 int main(){
-printf("SANJAY");}
+  int a,b;
+  scanf("%d %d",&a,&b);
+}
